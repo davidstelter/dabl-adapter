@@ -2,6 +2,7 @@
     "name": "manifest/dabl-adapter",
     "description": "DABL DB Adapter component",
     "license": "MIT",
+	"version": "0.1.0",
     "authors": [
         {
             "name": "Manifest Web Design",
