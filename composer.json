@@ -5,6 +5,10 @@
 	"version": "0.1.0",
     "authors": [
         {
+            "name": "Dan Blaisdell",
+            "email": "dan@manifestwebdesign.com"
+        },
+        {
             "name": "Manifest Web Design",
             "email": "developers@manifestwebdesign.com"
         }
